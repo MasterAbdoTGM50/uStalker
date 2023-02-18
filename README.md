@@ -2,10 +2,7 @@
 
 [uHunt API](https://uhunt.onlinejudge.org/api) client to track UVa user submissions.
 
-**Please note that:**
-
-- This was created as an assignment for a software engineering course at Cairo University.
-- With the goal of helping teaching assistants track students' submissions for the algorithms course assignments on UVa.
+*Please note that this was created as an assignment for a software engineering course at Cairo University with the goal of helping teaching assistants track students' submissions for the algorithms course assignments on UVa.*
 
 ## Technologies
 
