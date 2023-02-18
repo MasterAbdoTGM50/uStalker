@@ -5,7 +5,7 @@
 **Please note that:**
 
 - This was created as an assignment for a software engineering course at Cairo University.
-- With the goal of helping teaching assistants track students submissions for the algorithms course assignments on UVa.
+- With the goal of helping teaching assistants track students' submissions for the algorithms course assignments on UVa.
 
 ## Technologies
 
