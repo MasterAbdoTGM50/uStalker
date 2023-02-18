@@ -2,6 +2,11 @@
 
 uHunt API client to track UVa user submissions which was created as an assignment for a software engineering course at Cairo University.
 
+## Technologies
+
+- JavaFX for the UI.
+- Spring for the API.
+
 ## Team
 
 
